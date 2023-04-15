@@ -1,0 +1,17 @@
+#include<iostream> 
+int main(){ 
+ //comment1 
+ /* this is 
+ multiline comment 
+ */ 
+ int a, b, c; 
+ a = 5; 
+ b = 7; 
+ c = a + b; 
+ 
+ printf("%d + %d = %d", a, b, c); 
+ 
+ printf("Add two numbers"); 
+ 
+ return 0; 
+} 
